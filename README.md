@@ -10,6 +10,7 @@ Softwares a serem instalados
 
 * [Zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
 * [My-oh-Zsh](http://ohmyz.sh/)
+* [Powerline-fonts](https://powerline.readthedocs.io/en/latest/installation/linux.html)
 * Git
 * Docker
 * PHP
@@ -21,6 +22,7 @@ Softwares a serem instalados
 * Chromiun
 * Telegram
 * Slack
+* [TeX Live](https://dzone.com/articles/installing-latex-ubuntu)
 
 <ol>
 <li>Configurar chave ssh para o github e gitlab</li>
