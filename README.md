@@ -25,6 +25,8 @@ Softwares a serem instalados
 
 > TCC
 * [TeX Live](https://dzone.com/articles/installing-latex-ubuntu)
+* biber <code> $ sudo apt-get install biber </code>
+* [LyX](http://wiki.lyx.org/LyX/LyXOnUbuntu#toc3)
 
 <ol>
 <li>Configurar chave ssh para o github e gitlab</li>
