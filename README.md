@@ -22,6 +22,8 @@ Softwares a serem instalados
 * Chromiun
 * Telegram
 * Slack
+
+> TCC
 * [TeX Live](https://dzone.com/articles/installing-latex-ubuntu)
 
 <ol>
